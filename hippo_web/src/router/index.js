@@ -1,6 +1,6 @@
 import Vue from 'vue'
-import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import Router from 'vue-router'  // export default {功能} 抛出才能引入
+import ShowCenter from '@/components/ShowCenter'  // 引入HelloWorld组件
 
 Vue.use(Router)
 
@@ -9,8 +9,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      name: 'ShowCenter',
+      component: ShowCenter
     }
   ]
 })
