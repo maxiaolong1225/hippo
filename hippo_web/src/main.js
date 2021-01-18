@@ -5,6 +5,10 @@ import App from './App' //导入App组件
 import router from './router'  // 导入路由控制系统
 import settings from "./settings";
 import axios from "axios";
+import Antd from 'ant-design-vue';
+
+Vue.use(Antd);
+import 'ant-design-vue/dist/antd.css';
 
 Vue.prototype.$settings = settings
 Vue.prototype.$axios = axios
