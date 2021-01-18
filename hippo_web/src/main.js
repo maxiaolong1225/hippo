@@ -6,18 +6,23 @@ import router from './router'  // 导入路由控制系统
 import settings from "./settings";
 import axios from "axios";
 import Antd from 'ant-design-vue';
-
 Vue.use(Antd);
 import 'ant-design-vue/dist/antd.css';
 
+// import echarts from 'echarts';
+let echarts = require('echarts');
+
 Vue.prototype.$settings = settings
 Vue.prototype.$axios = axios
+Vue.prototype.$echarts = echarts;
 
 Vue.config.productionTip = false
+
 /*
 vue对象初始化入口，这里导入的一些组件
- */
-/* eslint-disable no-new */
+eslint-disable no-new
+*/
+
 new Vue({
   el: '#app',
   router,
