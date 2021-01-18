@@ -5,6 +5,7 @@ import HelloWorld from '@/components/HelloWorld'
 Vue.use(Router)
 
 export default new Router({
+  mode:'history', // 新增的，修改模式
   routes: [
     {
       path: '/',
