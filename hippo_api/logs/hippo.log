@@ -98,3 +98,119 @@ INFO 2021-01-19 16:31:36,847 autoreload 203 /home/hkxpz/maxiaolong/hippo/hippo_a
 2021-01-19 16:40:37,740 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
 2021-01-19 16:40:37,758 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
 2021-01-19 16:40:37,770 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 16:58:51,721 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 17:14:10,051 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/settings/dev.py changed, reloading.
+2021-01-19 17:14:10,634 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:11:54,532 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/models.py changed, reloading.
+2021-01-19 18:11:55,116 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:13:30,529 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
+2021-01-19 18:13:30,570 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,574 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,576 [INFO]  [basehttp - 154] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,578 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,584 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,585 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,587 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,589 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+2021-01-19 18:13:30,593 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,597 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,597 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:13:30,613 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,635 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,639 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,641 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,644 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,646 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,657 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,682 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,684 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,691 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,692 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,696 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+2021-01-19 18:13:30,705 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+2021-01-19 18:16:06,650 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
+2021-01-19 18:16:06,670 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:16:09,068 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
+2021-01-19 18:16:09,088 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:16:09,970 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
+2021-01-19 18:16:10,002 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:16:10,516 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
+2021-01-19 18:16:10,544 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:17:45,191 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:24:26,925 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:25:03,199 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-19 18:25:03,226 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:25:38,138 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-19 18:25:38,160 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:25:45,778 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-19 18:25:45,807 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:28:07,931 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/users/urls.py changed, reloading.
+2021-01-19 18:28:08,534 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:34:45,018 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-19 18:34:45,047 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,053 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,065 [INFO]  [basehttp - 154] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,065 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,073 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,075 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,082 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,082 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+2021-01-19 18:34:45,083 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,086 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:34:45,088 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,099 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,117 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,133 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,134 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,134 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,137 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,141 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,165 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,179 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,182 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,185 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,186 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+2021-01-19 18:34:45,188 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+2021-01-19 18:34:46,132 [INFO]  [basehttp - 154] "GET /xadmin/logout/ HTTP/1.1" 200 2862
+2021-01-19 18:34:46,160 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+2021-01-19 18:34:48,675 [INFO]  [basehttp - 154] "GET /xadmin/ HTTP/1.1" 200 4354
+2021-01-19 18:34:48,704 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4361
+2021-01-19 18:34:51,758 [INFO]  [basehttp - 154] "POST /xadmin/ HTTP/1.1" 302 0
+2021-01-19 18:34:51,795 [INFO]  [basehttp - 154] "GET /xadmin/ HTTP/1.1" 200 15101
+2021-01-19 18:34:51,873 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+2021-01-19 18:34:51,875 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+2021-01-19 18:34:51,877 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+2021-01-19 18:34:51,883 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:36:19,279 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/apps.py changed, reloading.
+2021-01-19 18:36:19,895 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:36:25,345 [INFO]  [basehttp - 154] "GET /xadmin/ HTTP/1.1" 200 15093
+2021-01-19 18:36:25,367 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:36:37,464 [INFO]  [basehttp - 154] "GET /xadmin/reversion/revision/ HTTP/1.1" 200 29654
+2021-01-19 18:36:37,491 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 304 0
+2021-01-19 18:36:37,495 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+2021-01-19 18:36:37,500 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 304 0
+2021-01-19 18:36:37,508 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+2021-01-19 18:36:37,511 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:36:37,514 [WARNING]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1769
+2021-01-19 18:36:37,516 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 304 0
+2021-01-19 18:36:37,520 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+2021-01-19 18:36:37,523 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+2021-01-19 18:36:37,525 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+2021-01-19 18:36:37,525 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+2021-01-19 18:36:37,587 [WARNING]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1769
+2021-01-19 18:36:49,545 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/apps.py changed, reloading.
+2021-01-19 18:36:50,286 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-19 18:37:01,038 [INFO]  [basehttp - 154] "GET /xadmin/reversion/revision/ HTTP/1.1" 200 29662
+2021-01-19 18:37:01,077 [WARNING]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1769
+2021-01-19 18:37:01,080 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:37:01,155 [WARNING]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1769
+2021-01-19 18:37:07,018 [INFO]  [basehttp - 154] "GET /xadmin/reversion/revision/ HTTP/1.1" 200 29662
+2021-01-19 18:37:07,044 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:37:07,045 [WARNING]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1769
+2021-01-19 18:37:07,112 [WARNING]  [basehttp - 154] "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1769
+2021-01-19 18:37:16,464 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-19 18:37:16,485 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:37:43,510 [INFO]  [basehttp - 154] "GET /xadmin/host/hosts/add/ HTTP/1.1" 200 17262
+2021-01-19 18:37:43,535 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-19 18:37:51,146 [INFO]  [basehttp - 154] "GET /xadmin/host/hosts/ HTTP/1.1" 200 24073
+2021-01-19 18:37:51,174 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722

@@ -1,7 +1,7 @@
-from  django.urls import path,include,re_path
+from django.urls import path,include,re_path
 from rest_framework_jwt.views import obtain_jwt_token
 
 
 urlpatterns = [
-    path(r'login/', obtain_jwt_token),
+    re_path(r'login/', obtain_jwt_token),
 ]

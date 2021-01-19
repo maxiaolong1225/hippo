@@ -28,7 +28,11 @@ sys.path.insert(0, os.path.join(BASE_DIR,'apps'))
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.hippo.com','api.hippo.com']
+ALLOWED_HOSTS = [
+    'www.hippo.com',
+    'api.hippo.com',
+    '*'
+]
 
 
 # Application definition
