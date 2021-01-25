@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'reversion',
     'corsheaders',
+    'rest_framework',
 
     'users',
     'host',
@@ -211,6 +212,8 @@ REST_FRAMEWORK = {
 
 JWT_AUTH = {
     'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1),
+    'JWT_ALLOW_REFRESH': True,
+
 }
 
 # Static files (CSS, JavaScript, Images)

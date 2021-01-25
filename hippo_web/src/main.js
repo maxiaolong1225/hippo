@@ -16,6 +16,7 @@ Vue.prototype.$settings = settings
 Vue.prototype.$axios = axios
 Vue.prototype.$echarts = echarts;
 
+
 Vue.config.productionTip = false
 
 /*

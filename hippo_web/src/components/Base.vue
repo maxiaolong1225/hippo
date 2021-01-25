@@ -70,7 +70,7 @@ export default {
       menu_list: [
         {id: 1, icon: 'mail', title: '展示中心', tube: '', 'menu_url': '/hippo/showcenter/', children: []},
         {
-          id: 2, icon: 'mail', title: '资产管理', 'menu_url': '/hippo/host/', children: []
+          id: 2, icon: 'mail', title: '资产管理', 'menu_url': '/hippo/hosts/', children: []
         },
         {
           id: 3, icon: 'bold', title: '批量任务', tube: '', 'menu_url': '/hippo/workbench', children: [

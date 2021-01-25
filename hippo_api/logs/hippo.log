@@ -214,3 +214,110 @@ INFO 2021-01-19 16:31:36,847 autoreload 203 /home/hkxpz/maxiaolong/hippo/hippo_a
 2021-01-19 18:37:43,535 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
 2021-01-19 18:37:51,146 [INFO]  [basehttp - 154] "GET /xadmin/host/hosts/ HTTP/1.1" 200 24073
 2021-01-19 18:37:51,174 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-24 09:43:45,371 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-24 09:44:15,044 [INFO]  [basehttp - 154] "GET /xadmin/host/hosts/ HTTP/1.1" 200 24073
+2021-01-24 09:44:15,503 [INFO]  [basehttp - 154] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,504 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,505 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,535 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,536 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,536 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,661 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,702 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+2021-01-24 09:44:15,722 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-24 09:44:15,731 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,750 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,769 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,781 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,844 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,895 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,910 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,911 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,977 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+2021-01-24 09:44:15,978 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+2021-01-24 09:44:16,044 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+2021-01-24 09:44:16,047 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+2021-01-24 09:44:16,048 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+2021-01-24 09:44:16,127 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+2021-01-24 09:44:16,279 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+2021-01-25 15:37:30,038 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 16:31:20,598 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-25 16:31:20,684 [WARNING]  [log - 228] Bad Request: /users/login/
+2021-01-25 16:31:20,684 [WARNING]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 400 89
+2021-01-25 16:31:29,346 [WARNING]  [log - 228] Bad Request: /users/login/
+2021-01-25 16:31:29,346 [WARNING]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 400 45
+2021-01-25 16:34:07,215 [INFO]  [basehttp - 154] "GET /xadmin/ HTTP/1.1" 200 15101
+2021-01-25 16:34:07,485 [INFO]  [basehttp - 154] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,486 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,488 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,488 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,496 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,498 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,500 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-25 16:34:07,511 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+2021-01-25 16:34:07,520 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,523 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,535 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,536 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,538 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,542 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,554 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,567 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,577 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,588 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,592 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,593 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+2021-01-25 16:34:07,954 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+2021-01-25 16:34:12,241 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-25 16:34:12,363 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+2021-01-25 16:34:12,370 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-25 16:34:12,375 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+2021-01-25 16:34:12,380 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+2021-01-25 16:34:12,397 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+2021-01-25 16:34:12,408 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+2021-01-25 16:34:12,416 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+2021-01-25 16:34:12,465 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+2021-01-25 16:34:24,569 [INFO]  [basehttp - 154] "GET /xadmin/xadmin/usersettings/?_rel_user__id__exact=1 HTTP/1.1" 200 27871
+2021-01-25 16:34:24,646 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-25 16:34:40,275 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 34846
+2021-01-25 16:34:40,299 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-25 16:34:45,532 [INFO]  [basehttp - 154] "GET /xadmin/account/password/ HTTP/1.1" 200 16891
+2021-01-25 16:34:45,563 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-25 16:34:55,971 [WARNING]  [log - 228] Bad Request: /users/login/
+2021-01-25 16:34:55,972 [WARNING]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 400 45
+2021-01-25 16:35:08,622 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 173
+2021-01-25 16:36:42,737 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-25 16:36:42,740 [WARNING]  [log - 228] Bad Request: /users/login/
+2021-01-25 16:36:42,741 [WARNING]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 400 45
+2021-01-25 16:38:07,451 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-25 16:38:07,454 [WARNING]  [log - 228] Bad Request: /users/login/
+2021-01-25 16:38:07,454 [WARNING]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 400 45
+2021-01-25 16:38:52,813 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-25 16:38:53,427 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 173
+2021-01-25 16:39:17,919 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-25 16:39:18,308 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 173
+2021-01-25 16:43:22,366 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/users/urls.py changed, reloading.
+2021-01-25 16:43:26,503 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 16:44:51,066 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/settings/dev.py changed, reloading.
+2021-01-25 16:44:51,666 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 16:51:24,931 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/settings/dev.py changed, reloading.
+2021-01-25 16:51:25,685 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 16:51:26,797 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-01-25 16:51:26,808 [WARNING]  [log - 228] Bad Request: /users/verify/
+2021-01-25 16:51:26,809 [WARNING]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 400 52
+2021-01-25 16:51:30,978 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 203
+2021-01-25 16:51:31,067 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-25 16:51:52,915 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-25 17:35:20,164 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/settings/dev.py changed, reloading.
+2021-01-25 17:35:20,884 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 17:36:16,507 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/models.py changed, reloading.
+2021-01-25 17:36:17,200 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 17:59:13,976 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-25 18:02:45,298 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-25 18:02:45,564 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 203
+2021-01-25 18:02:45,762 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-01-25 18:02:45,773 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-25 18:03:34,336 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-25 18:04:05,996 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-25 18:04:18,164 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-25 18:04:27,079 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
