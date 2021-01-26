@@ -1,4 +1,3 @@
-
 from paramiko.client import SSHClient, AutoAddPolicy
 from paramiko.config import SSH_PORT
 from paramiko.rsakey import RSAKey
@@ -7,12 +6,12 @@ from io import StringIO
 
 
 class SSH:
-    def __init__(self, host, port=SSH_PORT, username='root', pkey=None, password=None, connect_timeout=10):
+    def __init__(self, host, port=SSH_PORT, username='root', pkey=None, password=None, connect_timeout=15):
         if pkey is None and password is None:
             raise Exception('私钥或者密码必须有一个不为空')
         self.client = None
         self.arguments = {
-            'hostname': host,  # z主机的ip地址
+            'hostname': host,  # 主机的ip地址
             'port': port,  #ssh链接端口  默认22端口
             'username': username,  #连接主机的用户名，
             'password': password,  #链接密码
@@ -20,7 +19,6 @@ class SSH:
             # 'pkey': pkey,  pkey为私钥文件信息，    # 1 密码链接， 2 公私钥链接(免密链接)
             'timeout': connect_timeout,
         }
-        print(self.arguments)
 
     @staticmethod
     def generate_key():  # 生成公私钥键值对
@@ -36,6 +34,7 @@ class SSH:
         command = f'mkdir -p -m 700 ~/.ssh && \
         echo {public_key!r} >> ~/.ssh/authorized_keys && \
         chmod 600 ~/.ssh/authorized_keys'
+        print("self.client asfafasfasfas",self.client, "self=",self)
         code, out = self.exec_command(command)
         if code != 0:
             raise Exception(f'添加公钥失败: {out}')
@@ -52,11 +51,10 @@ class SSH:
         try:
             self.client = SSHClient()
             self.client.set_missing_host_key_policy(AutoAddPolicy)  #指纹记录
-            # print('2222self.client>>>>', self.client)
+
             self.client.connect(**self.arguments)  # 通过参数建立链接，如果链接不上，直接抛错误
         except Exception as e:
             return None
-        # print('self.client>>>>',self.client)
         return self.client
 
     # 指定上文文件的路径
@@ -139,3 +137,4 @@ class SSH:
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.client.close()
         self.client = None
+

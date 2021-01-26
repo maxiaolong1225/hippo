@@ -321,3 +321,1426 @@ INFO 2021-01-19 16:31:36,847 autoreload 203 /home/hkxpz/maxiaolong/hippo/hippo_a
 2021-01-25 18:04:05,996 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
 2021-01-25 18:04:18,164 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
 2021-01-25 18:04:27,079 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-26 09:31:16,732 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 09:31:48,665 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-01-26 09:31:49,036 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 203
+2021-01-26 09:31:49,504 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-01-26 09:31:49,743 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-26 09:32:06,495 [WARNING]  [log - 228] Not Found: /xadmin/host/hosts/
+2021-01-26 09:32:06,495 [WARNING]  [basehttp - 154] "GET /xadmin/host/hosts/ HTTP/1.1" 404 6115
+2021-01-26 09:32:43,803 [INFO]  [basehttp - 154] "GET /xadmin/users/user/ HTTP/1.1" 200 33712
+2021-01-26 09:32:44,838 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,892 [INFO]  [basehttp - 154] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+2021-01-26 09:32:44,926 [INFO]  [basehttp - 154] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,927 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,928 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,929 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,930 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,930 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,931 [INFO]  [basehttp - 154] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+2021-01-26 09:32:44,934 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,935 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,936 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,936 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,970 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,984 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,985 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,985 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,986 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+2021-01-26 09:32:44,987 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+2021-01-26 09:32:45,014 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+2021-01-26 09:32:45,040 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+2021-01-26 09:32:45,043 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+2021-01-26 09:32:45,058 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+2021-01-26 09:32:45,059 [INFO]  [basehttp - 154] "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+2021-01-26 09:32:45,371 [INFO]  [basehttp - 154] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+2021-01-26 09:34:49,210 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/models.py changed, reloading.
+2021-01-26 09:34:49,943 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 09:40:20,162 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/models.py changed, reloading.
+2021-01-26 09:40:20,813 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 12:02:33,345 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 13:45:58,823 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-01-26 13:45:59,025 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-01-26 14:03:43,080 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/urls.py changed, reloading.
+2021-01-26 14:03:44,604 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:06:16,506 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:08:06,611 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:08:47,957 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:10:46,895 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:11:29,138 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:12:06,897 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:30:11,202 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:35:33,065 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:35:33,172 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:35:39,550 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:39:25,187 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:39:27,755 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:39:53,008 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:40:26,063 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:40:26,066 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:40:26,208 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:40:26,227 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 2
+2021-01-26 14:40:32,019 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:40:32,020 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:40:32,093 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:40:32,096 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 2
+2021-01-26 14:42:48,704 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:42:48,705 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:42:48,862 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 2
+2021-01-26 14:42:48,867 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:44:59,985 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-01-26 14:45:01,172 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 14:45:15,646 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:45:15,647 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:45:15,790 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:45:15,792 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:47:07,343 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:47:07,344 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:47:07,398 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:47:07,404 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:47:11,686 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:47:11,687 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:47:11,741 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:47:11,752 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:49:15,902 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:49:15,904 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:49:15,962 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:49:15,965 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:50:53,068 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:50:53,069 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:50:53,184 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:50:53,199 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:54:56,340 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:54:56,343 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:54:56,426 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:54:56,430 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:59:42,053 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:59:42,056 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:59:42,088 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:59:42,157 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 14:59:48,031 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 14:59:48,032 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 14:59:48,087 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 14:59:48,102 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:00:57,925 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:00:57,932 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:00:58,031 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:00:58,063 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:01:02,918 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:01:02,919 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:01:03,003 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:01:03,009 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:08:14,527 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:08:14,554 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:08:14,607 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:08:14,627 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:08:20,505 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:08:20,510 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:08:20,569 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:08:20,592 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:10:01,223 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:10:01,226 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:10:01,320 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:10:01,485 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:10:05,745 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:10:05,755 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:10:05,787 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:10:05,871 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:11:28,566 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:11:28,569 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:11:28,667 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:11:28,673 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:11:33,083 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:11:33,083 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:11:33,207 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:11:33,229 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:13:31,968 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:13:31,969 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:13:32,045 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:13:32,047 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:15:33,990 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:15:33,995 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:15:34,082 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:15:34,133 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:16:51,969 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:16:51,970 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:16:52,021 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:16:52,028 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:22:52,513 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:22:52,515 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:22:52,566 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:22:52,701 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:22:57,435 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:22:57,437 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:22:57,483 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:22:57,486 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:23:59,957 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:23:59,958 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:24:00,147 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:24:00,167 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:26:38,708 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:26:38,710 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:26:38,757 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:26:38,791 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:26:43,297 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:26:43,299 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:26:43,338 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:26:43,441 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:29:32,729 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:29:32,733 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:29:32,767 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:29:32,859 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:29:37,712 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:29:37,713 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:29:37,809 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:29:37,812 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:31:42,755 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:31:42,763 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:31:42,795 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:31:42,922 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:31:47,742 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:31:47,743 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:31:47,816 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:31:47,821 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:33:37,128 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:33:37,130 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:33:37,219 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:33:37,221 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:33:42,124 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:33:42,125 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:33:42,192 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:33:42,264 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:34:25,595 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 15:34:25,595 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:34:25,638 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:34:25,644 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:37:17,495 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:37:17,540 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:39:27,813 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 15:39:27,815 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 15:40:45,316 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 47, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 39, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 15:40:45,317 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19405
+2021-01-26 15:46:43,013 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 15:46:44,781 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:46:46,747 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:47:01,765 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:47:12,139 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 49, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 39, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 15:47:12,141 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 15:50:02,225 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 15:50:02,920 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:51:57,473 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:51:57,597 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 49, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 39, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    # cli -- self.client
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 15:51:57,602 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19441
+2021-01-26 15:54:14,630 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 15:54:15,347 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:54:28,955 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:54:29,218 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 50, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 39, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 15:54:29,220 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 15:57:38,805 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 15:57:39,540 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:57:42,282 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:57:49,910 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 15:57:50,015 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 50, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 39, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 79, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 15:57:50,017 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 15:59:06,710 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 15:59:07,407 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 15:59:38,130 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 15:59:38,848 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:19:41,636 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:19:42,357 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:19:57,341 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:19:58,039 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:20:50,883 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:20:51,616 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:21:23,424 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:21:24,126 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:21:50,615 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:21:51,270 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:22:21,733 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:22:33,059 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:22:43,488 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 50, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:22:43,489 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:25:46,989 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:25:47,693 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:25:54,983 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:26:05,257 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 47, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 75, in exec_command
+    with self as cli:  # __enter__方法，并将该方法的返回值给 as 后面的变量
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 136, in __enter__
+    raise RuntimeError('已经建立连接了！！！')
+RuntimeError: 已经建立连接了！！！
+2021-01-26 16:26:05,258 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19615
+2021-01-26 16:26:44,814 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:26:45,496 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:26:54,200 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:26:54,907 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:28:41,471 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:28:54,877 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:29:05,116 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 47, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:29:05,117 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:30:24,772 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:30:25,442 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:30:30,695 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:30:39,150 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:30:49,443 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 47, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:30:49,444 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:32:02,689 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:32:03,368 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:32:15,599 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:32:25,918 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:32:25,920 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:34:29,426 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:34:30,234 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:35:44,019 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:35:44,697 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:36:20,675 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:36:21,325 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:36:32,634 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:36:42,965 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:36:42,966 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:39:40,847 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:39:41,550 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:41:05,974 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:41:16,327 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:41:16,328 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:42:42,927 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:42:58,932 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:43:09,467 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:43:09,469 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:44:52,433 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:44:53,108 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:45:01,954 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:45:12,179 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:45:12,181 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:46:00,571 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 16:46:01,261 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:46:15,000 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:46:35,386 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 50, in create
+    _cli.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:46:35,387 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19462
+2021-01-26 16:52:35,548 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 16:52:56,728 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 16:53:17,129 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 50, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 16:53:17,130 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 16:56:33,485 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 16:56:34,169 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:03:34,477 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:03:35,199 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:08:16,923 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:08:17,613 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:08:19,977 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:08:29,122 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:08:39,607 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 50, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.client.exec_command(command)
+AttributeError: 'NoneType' object has no attribute 'exec_command'
+2021-01-26 17:08:39,609 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19321
+2021-01-26 17:21:30,221 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:25:01,710 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 17:25:02,467 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:25:06,713 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:25:17,039 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:25:17,040 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 17:26:03,775 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:26:04,465 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:26:34,740 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:26:35,199 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 76, in exec_command
+    with self.client as cli:  # __enter__方法，并将该方法的返回值给 as 后面的变量
+AttributeError: __enter__
+2021-01-26 17:26:35,202 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19429
+2021-01-26 17:28:20,081 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:28:20,779 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:28:26,222 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:28:26,576 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = self.client.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:28:26,577 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19465
+2021-01-26 17:30:50,519 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 17:30:51,190 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:31:04,693 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:31:04,694 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 17:31:04,834 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 17:31:04,841 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 17:31:37,636 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:31:37,940 [INFO]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 201 130
+2021-01-26 17:35:43,351 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:35:44,073 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:36:02,349 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:36:03,262 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:36:48,001 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:36:48,285 [INFO]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 201 137
+2021-01-26 17:36:56,189 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 17:36:56,888 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:37:02,856 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:37:13,226 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:37:23,503 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 37, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 77, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:37:23,504 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 17:40:44,667 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:40:45,371 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:41:34,830 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:41:35,597 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:41:40,123 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:41:50,480 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 37, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 78, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:41:50,481 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 17:42:57,849 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:42:58,672 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:43:01,191 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:43:11,527 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 37, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 79, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:43:11,528 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 17:49:46,606 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:49:47,285 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:49:55,220 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:50:01,825 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:50:12,136 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 37, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 85, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:50:12,137 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 17:52:12,305 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 17:52:13,062 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:52:15,423 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:52:21,898 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 17:52:32,224 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 37, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 85, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 17:52:32,226 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 17:53:55,335 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/check_ssh.py changed, reloading.
+2021-01-26 17:53:56,129 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:55:05,571 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/check_ssh.py changed, reloading.
+2021-01-26 17:55:06,330 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 17:56:30,602 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/check_ssh.py changed, reloading.
+2021-01-26 17:56:31,302 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:00:59,426 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:01:00,148 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:01:12,058 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:01:12,767 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:06:16,301 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:06:16,981 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:06:25,715 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:06:26,458 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:06:28,808 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:06:45,890 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 37, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 84, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 18:06:45,891 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19404
+2021-01-26 18:08:01,544 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:08:02,215 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:08:46,663 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:08:47,556 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:09:26,706 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:09:27,416 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:09:37,213 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:09:37,988 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:17:14,477 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:17:15,143 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:17:35,391 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:17:36,139 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:17:47,045 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:17:47,778 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:18:50,851 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:18:51,550 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:23:23,923 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:23:24,720 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:25:20,681 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:25:21,383 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:26:08,806 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:26:09,549 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:26:22,454 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:26:23,126 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:28:11,600 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:28:12,318 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:29:11,310 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:29:12,039 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:31:45,531 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:31:46,261 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:32:06,531 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:32:43,452 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 48, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 84, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 18:32:43,453 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19404
+2021-01-26 18:43:37,318 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:43:38,068 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:44:03,756 [WARNING]  [log - 228] Bad Request: /host/list/
+2021-01-26 18:44:03,756 [WARNING]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 400 67
+2021-01-26 18:44:16,580 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:44:16,610 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:44:25,961 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:44:25,963 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:44:54,758 [WARNING]  [log - 228] Bad Request: /host/list/
+2021-01-26 18:44:54,758 [WARNING]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 400 67
+2021-01-26 18:45:45,379 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:45:46,038 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:46:05,975 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:46:05,986 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:46:31,145 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:46:31,146 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:46:31,219 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:46:31,242 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:48:06,122 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 18:48:06,832 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:48:11,182 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:48:11,182 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:48:11,236 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:48:11,250 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:49:16,611 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-01-26 18:49:17,330 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:49:23,993 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:49:23,993 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:49:24,048 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:49:24,056 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:50:33,303 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:50:33,307 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:50:33,410 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:50:33,412 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:50:37,932 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:50:37,934 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:50:38,164 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 2
+2021-01-26 18:50:38,180 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:51:56,193 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-01-26 18:51:56,893 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:52:04,734 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:52:04,749 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:52:04,857 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:52:04,861 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 270
+2021-01-26 18:53:58,902 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 18:53:59,576 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:54:17,761 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 18:54:18,665 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:54:46,021 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:54:46,282 [INFO]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 201 130
+2021-01-26 18:55:28,405 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-01-26 18:55:29,247 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:55:32,310 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:55:32,312 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:55:32,331 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:55:32,339 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 132
+2021-01-26 18:57:05,060 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-01-26 18:57:05,781 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:57:10,125 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 18:57:10,126 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-01-26 18:57:10,171 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 18:57:10,176 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 401
+2021-01-26 18:58:14,701 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 18:58:15,505 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 18:58:57,843 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 46, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 81, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 18:58:57,844 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19404
+2021-01-26 19:00:16,630 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-01-26 19:00:16,676 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 401
+2021-01-26 19:00:57,993 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 19:01:28,250 [ERROR]  [log - 228] Internal Server Error: /host/list/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py", line 46, in create
+    ssh.add_public_key(public_key=public_key)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 38, in add_public_key
+    code, out = self.exec_command(command)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py", line 81, in exec_command
+    chan = cli.get_transport().open_session()
+AttributeError: 'NoneType' object has no attribute 'get_transport'
+2021-01-26 19:01:28,251 [ERROR]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 500 19461
+2021-01-26 19:03:27,455 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 19:03:28,180 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 19:03:37,732 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-01-26 19:03:38,391 [INFO]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 201 122
+2021-01-26 19:04:28,241 [INFO]  [basehttp - 154] "POST /host/list/ HTTP/1.1" 201 140
+2021-01-26 19:06:47,107 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/libs/ssh.py changed, reloading.
+2021-01-26 19:06:47,883 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 19:08:49,778 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 19:08:50,447 [INFO]  [autoreload - 578] Watching for file changes with StatReloader

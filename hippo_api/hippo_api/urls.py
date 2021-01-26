@@ -25,7 +25,8 @@ xversion.register_models()
 urlpatterns = [
     # path('admin/', admin.site.urls),
     path('xadmin/', xadmin.site.urls),
-    path(r'users/', include('users.urls'))
+    path('users/', include('users.urls')),
+    path('host/', include('host.urls')),
 ]
 
 

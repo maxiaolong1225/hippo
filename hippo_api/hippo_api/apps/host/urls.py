@@ -19,6 +19,7 @@ from . import views
 
 urlpatterns = [
   path('list/', views.HostView.as_view({'get':'list','post':'create'})),
+  path('categorys/', views.HostCategoryView.as_view()),
 ]
 
 
