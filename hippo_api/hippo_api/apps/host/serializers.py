@@ -1,5 +1,3 @@
-import logging
-
 from rest_framework import serializers
 
 from . import models
@@ -56,4 +54,4 @@ class HostModelSerializer(serializers.ModelSerializer):
 class HostCategoryModelSerializer(serializers.ModelSerializer):
     class Meta:
         model = models.HostCategory
-        fields = ['id','name']
+        fields = ['id', 'name']

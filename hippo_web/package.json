@@ -15,7 +15,10 @@
     "babel-plugin-import": "^1.13.3",
     "echarts": "^5.0.1",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "xterm": "^4.10.0",
+    "xterm-addon-attach": "^0.6.0",
+    "xterm-addon-fit": "^0.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

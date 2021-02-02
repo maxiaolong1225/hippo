@@ -50,9 +50,11 @@ INSTALLED_APPS = [
     'reversion',
     'corsheaders',
     'rest_framework',
+    'channels',
 
     'users',
     'host',
+    'consumer',
 ]
 
 MIDDLEWARE = [
@@ -220,3 +222,15 @@ JWT_AUTH = {
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+# 配置channel的通道层
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels_redis.core.RedisChannelLayer',
+        'CONFIG': {
+            "hosts": [('127.0.0.1', 6379)], #需修改
+        },
+    },
+}
+
+# 在host应用下面创建一个routing.py文件,
+ASGI_APPLICATION = 'host.routing.application'

@@ -13,13 +13,16 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
-from django.urls import path,include
+from django.urls import path,include,re_path
 
 from . import views
 
 urlpatterns = [
   path('list/', views.HostView.as_view({'get':'list','post':'create'})),
+  re_path(r'list/(?P<pk>\d+)/', views.HostView.as_view({'get':'retrieve', 'delete':'destroy'})),
   path('categorys/', views.HostCategoryView.as_view()),
+  re_path('^host_excel/', views.HostExcelView.as_view()),
+  re_path('^file/(?P<pk>\d+)/', views.HostFileView.as_view({'get': 'get_folders','post': 'upload_file', 'delete': 'delete_file'}))
 ]
 
 

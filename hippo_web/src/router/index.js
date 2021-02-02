@@ -4,6 +4,7 @@ import ShowCenter from '@/components/ShowCenter'  // 引入HelloWorld组件
 import Login from '@/components/Login'
 import Base from '@/components/Base'
 import Host from "@/components/Host";
+import Console from "@/components/Console";
 
 Vue.use(Router)
 
@@ -36,6 +37,12 @@ export default new Router({
           path:'hosts/',
           name:"Host",
           component:Host,
+
+        },
+        {
+          path:'console/:id/',
+          name:"Console",
+          component:Console,
 
         }
 

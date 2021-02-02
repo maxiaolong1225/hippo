@@ -1744,3 +1744,1012 @@ AttributeError: 'NoneType' object has no attribute 'get_transport'
 2021-01-26 19:06:47,883 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
 2021-01-26 19:08:49,778 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
 2021-01-26 19:08:50,447 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 19:12:17,713 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 19:12:18,393 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-01-26 19:12:53,466 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/serializers.py changed, reloading.
+2021-01-26 19:12:54,160 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 14:01:23,730 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 14:02:44,065 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 14:02:44,065 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 14:02:44,317 [WARNING]  [log - 228] Unauthorized: /host/list/
+2021-02-01 14:02:44,318 [WARNING]  [log - 228] Unauthorized: /host/categorys/
+2021-02-01 14:02:44,318 [WARNING]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 401 35
+2021-02-01 14:02:44,318 [WARNING]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 401 35
+2021-02-01 14:02:50,313 [WARNING]  [log - 228] Unauthorized: /host/list/
+2021-02-01 14:02:50,313 [WARNING]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 401 35
+2021-02-01 14:02:50,314 [WARNING]  [log - 228] Unauthorized: /host/categorys/
+2021-02-01 14:02:50,315 [WARNING]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 401 35
+2021-02-01 14:03:09,119 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-01 14:03:09,186 [WARNING]  [log - 228] Bad Request: /users/verify/
+2021-02-01 14:03:09,187 [WARNING]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 400 47
+2021-02-01 14:03:13,580 [INFO]  [basehttp - 154] "OPTIONS /users/login/ HTTP/1.1" 200 0
+2021-02-01 14:03:13,756 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 203
+2021-02-01 14:03:13,885 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 14:03:16,286 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 14:03:16,588 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 14:21:04,429 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 14:21:29,562 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 14:23:56,285 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 14:24:46,499 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 14:25:40,045 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 15:05:52,738 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 15:05:52,745 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 15:21:28,372 [INFO]  [basehttp - 154] "POST /users/login/ HTTP/1.1" 200 203
+2021-02-01 15:21:28,492 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 15:21:30,771 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 15:21:30,779 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 15:21:41,069 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 15:21:41,940 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 15:21:41,944 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 15:22:17,156 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 15:22:17,157 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 15:22:17,174 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 15:22:17,189 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 15:24:07,731 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 15:24:07,734 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 15:24:07,752 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 15:24:07,758 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 15:28:13,564 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 15:28:13,565 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 15:28:13,579 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 15:28:13,584 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 15:40:45,369 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/urls.py changed, reloading.
+2021-02-01 15:40:46,117 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 15:43:10,191 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-02-01 15:43:10,857 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:01:51,309 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-02-01 16:01:52,014 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:04:15,233 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:04:15,241 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 16:06:42,221 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 16:06:42,236 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:06:48,081 [WARNING]  [log - 228] Method Not Allowed: /host/host_excel/
+2021-02-01 16:06:48,083 [WARNING]  [basehttp - 154] "GET /host/host_excel/ HTTP/1.1" 405 5651
+2021-02-01 16:06:48,132 [INFO]  [basehttp - 154] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2021-02-01 16:06:48,135 [INFO]  [basehttp - 154] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2021-02-01 16:06:48,135 [INFO]  [basehttp - 154] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2021-02-01 16:06:48,141 [INFO]  [basehttp - 154] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2021-02-01 16:06:48,141 [INFO]  [basehttp - 154] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2021-02-01 16:06:48,145 [INFO]  [basehttp - 154] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2021-02-01 16:06:48,147 [INFO]  [basehttp - 154] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2021-02-01 16:06:48,148 [INFO]  [basehttp - 154] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2021-02-01 16:06:48,152 [INFO]  [basehttp - 154] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2021-02-01 16:06:48,157 [INFO]  [basehttp - 154] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2021-02-01 16:06:48,159 [INFO]  [basehttp - 154] "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+2021-02-01 16:06:48,380 [WARNING]  [log - 228] Not Found: /favicon.ico
+2021-02-01 16:06:48,381 [WARNING]  [basehttp - 154] "GET /favicon.ico HTTP/1.1" 404 2191
+2021-02-01 16:07:22,134 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 16:07:22,147 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:10:27,134 [WARNING]  [log - 228] Method Not Allowed: /host/host_excel/
+2021-02-01 16:10:27,134 [WARNING]  [basehttp - 154] "GET /host/host_excel/ HTTP/1.1" 405 5651
+2021-02-01 16:17:23,396 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 16:17:23,405 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:17:45,955 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-01 16:17:45,959 [INFO]  [basehttp - 154] "OPTIONS /host/host_excel/ HTTP/1.1" 200 0
+2021-02-01 16:17:45,974 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:17:46,600 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 60, in read_host_excel_data
+    if not pwd.strip():
+AttributeError: 'NoneType' object has no attribute 'strip'
+2021-02-01 16:17:46,601 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 18944
+2021-02-01 16:18:01,767 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-01 16:18:01,769 [INFO]  [basehttp - 154] "OPTIONS /host/host_excel/ HTTP/1.1" 200 0
+2021-02-01 16:18:01,778 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:18:01,799 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 60, in read_host_excel_data
+    if not pwd.strip():
+AttributeError: 'NoneType' object has no attribute 'strip'
+2021-02-01 16:18:01,800 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 19001
+2021-02-01 16:24:31,655 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:24:32,389 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:26:02,129 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 16:26:02,133 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 16:26:02,156 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 16:26:02,163 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:26:12,099 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:26:12,141 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 38, in read_host_excel_data
+    new_hostcategory_obj = HostCategory.objects.create_or_update(name=category.strip())
+AttributeError: 'Manager' object has no attribute 'create_or_update'
+2021-02-01 16:26:12,142 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 19025
+2021-02-01 16:29:51,905 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:29:52,907 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:30:49,774 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:30:50,503 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:31:06,734 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 60
+2021-02-01 16:31:06,741 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:31:15,053 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:31:15,106 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 39, in read_host_excel_data
+    one_row_dict['category'] = new_hostcategory_obj.id
+AttributeError: 'tuple' object has no attribute 'id'
+2021-02-01 16:31:15,107 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 18960
+2021-02-01 16:34:29,025 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:34:29,743 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:34:41,615 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:34:42,441 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:34:46,631 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 91
+2021-02-01 16:34:46,641 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:34:55,409 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:34:55,450 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 59, in read_host_excel_data
+    if not pwd.strip():
+AttributeError: 'NoneType' object has no attribute 'strip'
+2021-02-01 16:34:55,451 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 18933
+2021-02-01 16:37:45,083 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:37:45,780 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:37:56,681 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:37:56,757 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 60, in read_host_excel_data
+    if not pwd.strip():
+AttributeError: 'NoneType' object has no attribute 'strip'
+2021-02-01 16:37:56,758 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 18933
+2021-02-01 16:42:54,985 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:42:55,763 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:43:00,786 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 91
+2021-02-01 16:43:00,800 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 665
+2021-02-01 16:43:05,793 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:43:06,684 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 385
+2021-02-01 16:45:32,500 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:45:33,344 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:45:35,070 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 122
+2021-02-01 16:45:35,070 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 844
+2021-02-01 16:45:41,012 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:45:42,280 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 331
+2021-02-01 16:47:25,728 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 122
+2021-02-01 16:47:25,759 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1154
+2021-02-01 16:47:33,057 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:47:33,116 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 393
+2021-02-01 16:47:43,221 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 187
+2021-02-01 16:47:43,247 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1154
+2021-02-01 16:49:13,111 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:49:13,938 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:52:15,393 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:52:16,107 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:53:17,429 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:53:17,486 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 393
+2021-02-01 16:54:47,445 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:54:48,795 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 334
+2021-02-01 16:57:13,032 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:57:13,754 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:58:17,284 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 188
+2021-02-01 16:58:17,314 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1467
+2021-02-01 16:58:24,486 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 16:58:24,528 [ERROR]  [log - 228] Internal Server Error: /host/host_excel/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/hkxpz/.virtualenvs/hippo/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py", line 41, in post
+    res_data = read_host_excel_data(sio, defalut_password)
+  File "/home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py", line 39, in read_host_excel_data
+    one_row_dict['category'] = new_hostcategory_obj.first().id
+AttributeError: 'tuple' object has no attribute 'first'
+2021-02-01 16:58:24,529 [ERROR]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 500 18974
+2021-02-01 16:58:56,861 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/utils/handle_excel.py changed, reloading.
+2021-02-01 16:58:57,558 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 16:59:25,047 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 221
+2021-02-01 16:59:25,094 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1467
+2021-02-01 17:00:04,252 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 17:00:06,293 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 301
+2021-02-01 17:10:38,529 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-02-01 17:10:39,437 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 17:10:42,290 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:10:42,332 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:11:12,622 [INFO]  [basehttp - 154] "GET /host/host_excel/ HTTP/1.1" 200 11264
+2021-02-01 17:23:38,741 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-02-01 17:23:39,694 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 17:23:51,040 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:23:51,063 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:30:43,396 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:30:43,424 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:30:48,353 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:30:48,379 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:34:38,302 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:34:38,327 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:38:42,768 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 17:38:42,778 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 17:38:42,788 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:38:42,840 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:52:49,600 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 17:52:49,603 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 17:52:49,618 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:52:49,637 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:56:42,953 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/urls.py changed, reloading.
+2021-02-01 17:56:43,686 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-01 17:56:45,038 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:56:45,058 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:58:29,517 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:58:29,574 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 17:59:12,185 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 17:59:12,224 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:01:46,216 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:01:46,249 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:04:16,763 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:04:16,807 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:06:07,635 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:06:07,636 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:06:07,653 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:06:07,678 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:07:12,341 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:07:12,342 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:07:12,364 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:07:12,379 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:07:36,011 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:07:36,014 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:07:36,049 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:07:36,071 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:10:16,734 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:10:16,741 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:10:16,763 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:10:16,793 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:10:43,553 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:10:43,556 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:10:43,576 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:10:43,607 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:14:58,631 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:14:58,632 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:14:58,651 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:14:58,737 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:15:04,921 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:15:04,922 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:15:04,938 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:15:04,954 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:15:46,431 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:15:46,434 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:15:46,501 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:15:46,509 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:15:51,919 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:15:51,924 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:15:51,938 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:15:51,952 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:19:31,869 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:19:31,878 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:19:31,929 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:19:31,941 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:19:36,630 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:19:36,633 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:19:36,655 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:19:36,675 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:22:48,896 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:22:48,897 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:22:48,919 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:22:48,956 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:22:57,238 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:22:57,239 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:22:57,266 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:22:57,294 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:24:29,333 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:24:29,338 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:24:29,404 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:24:29,420 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:24:51,003 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:24:51,005 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:24:51,027 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:24:51,053 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:27:02,011 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:27:02,019 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:27:02,051 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:27:02,080 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:27:06,765 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:27:06,767 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:27:06,793 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:27:06,823 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:27:10,641 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-01 18:27:10,647 [INFO]  [basehttp - 154] "OPTIONS /host/list/5/ HTTP/1.1" 200 0
+2021-02-01 18:27:10,656 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 18:27:10,666 [INFO]  [basehttp - 154] "GET /host/list/5/ HTTP/1.1" 200 140
+2021-02-01 18:30:25,485 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-01 18:30:25,486 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-01 18:30:25,507 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-01 18:30:25,521 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-01 18:30:28,390 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-01 18:30:28,403 [INFO]  [basehttp - 154] "OPTIONS /host/list/1/ HTTP/1.1" 200 0
+2021-02-01 18:30:28,451 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 18:30:28,462 [INFO]  [basehttp - 154] "GET /host/list/1/ HTTP/1.1" 200 130
+2021-02-01 18:31:02,919 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-01 18:31:02,919 [INFO]  [basehttp - 154] "OPTIONS /host/list/5/ HTTP/1.1" 200 0
+2021-02-01 18:31:02,936 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-01 18:31:02,938 [INFO]  [basehttp - 154] "GET /host/list/5/ HTTP/1.1" 200 140
+2021-02-01 18:34:54,561 [INFO]  [basehttp - 154] "GET /host/list/5/ HTTP/1.1" 200 140
+2021-02-01 18:35:41,978 [INFO]  [basehttp - 154] "GET /host/list/5/ HTTP/1.1" 200 140
+2021-02-01 18:36:28,942 [WARNING]  [log - 228] Method Not Allowed: /host/list/5/
+2021-02-01 18:36:28,943 [WARNING]  [basehttp - 154] "PUT /host/list/5/ HTTP/1.1" 405 45
+2021-02-02 09:28:58,738 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:28:58,739 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:28:58,928 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:28:58,952 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-02 09:29:12,947 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:29:12,948 [INFO]  [basehttp - 154] "OPTIONS /host/list/1/ HTTP/1.1" 200 0
+2021-02-02 09:29:12,965 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 09:29:12,966 [INFO]  [basehttp - 154] "GET /host/list/1/ HTTP/1.1" 200 130
+2021-02-02 09:30:55,211 [INFO]  [basehttp - 154] "GET /host/list/5/ HTTP/1.1" 200 140
+2021-02-02 09:36:39,625 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:36:39,627 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:36:39,652 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:36:39,695 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-02 09:36:45,639 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:36:45,640 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:36:45,654 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:36:45,678 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1747
+2021-02-02 09:36:52,776 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:36:52,782 [INFO]  [basehttp - 154] "OPTIONS /host/list/5/ HTTP/1.1" 200 0
+2021-02-02 09:36:52,792 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 09:36:53,333 [INFO]  [basehttp - 154] "DELETE /host/list/5/ HTTP/1.1" 204 0
+2021-02-02 09:37:50,924 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:37:50,926 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:37:50,954 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:37:50,961 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1606
+2021-02-02 09:38:35,615 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:38:35,616 [INFO]  [basehttp - 154] "OPTIONS /host/list/3/ HTTP/1.1" 200 0
+2021-02-02 09:38:35,625 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 09:38:35,629 [INFO]  [basehttp - 154] "DELETE /host/list/3/ HTTP/1.1" 204 0
+2021-02-02 09:44:05,505 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:44:05,506 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:44:05,537 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:44:05,563 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1475
+2021-02-02 09:44:11,316 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:44:11,317 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:44:11,332 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:44:11,356 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1475
+2021-02-02 09:49:14,193 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:49:14,212 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:49:14,231 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:49:14,243 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1475
+2021-02-02 09:49:36,309 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:49:36,314 [INFO]  [basehttp - 154] "OPTIONS /host/list/6/ HTTP/1.1" 200 0
+2021-02-02 09:49:36,322 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 09:49:36,336 [INFO]  [basehttp - 154] "DELETE /host/list/6/ HTTP/1.1" 204 0
+2021-02-02 09:49:54,551 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:49:54,553 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:49:54,570 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:49:54,587 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1296
+2021-02-02 09:50:24,175 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:50:24,176 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:50:24,229 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:50:24,259 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1296
+2021-02-02 09:50:31,561 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:50:31,564 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:50:31,584 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:50:31,598 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1296
+2021-02-02 09:50:43,788 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:50:43,795 [INFO]  [basehttp - 154] "OPTIONS /host/list/4/ HTTP/1.1" 200 0
+2021-02-02 09:50:43,804 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 09:50:43,805 [INFO]  [basehttp - 154] "DELETE /host/list/4/ HTTP/1.1" 204 0
+2021-02-02 09:50:54,339 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:50:54,340 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:50:54,352 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:50:54,368 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:52:27,752 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:52:27,753 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:52:27,771 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:52:27,800 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:54:16,522 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:54:16,523 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:54:16,547 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:54:16,560 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:54:53,730 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:54:53,731 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:54:53,753 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:54:53,773 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:55:57,541 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:55:57,542 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:55:57,557 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:55:57,572 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:56:08,566 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:56:08,572 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 09:59:39,063 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:59:39,070 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:59:39,130 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:59:39,136 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:59:44,993 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 09:59:44,994 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 09:59:45,011 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 09:59:45,021 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 09:59:53,557 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 09:59:53,563 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:04:08,067 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:04:08,068 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:04:08,083 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:04:08,100 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 10:04:12,346 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:04:12,348 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:04:12,364 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:04:12,386 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 10:04:19,523 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 10:04:19,529 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:07:52,285 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:07:52,290 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:07:52,346 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:07:52,365 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 10:15:24,069 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:15:24,069 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:15:24,127 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:15:24,130 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 10:15:32,824 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:15:32,826 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:15:32,845 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:15:32,854 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1173
+2021-02-02 10:15:36,687 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 10:15:36,693 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:15:36,751 [INFO]  [basehttp - 154] "OPTIONS /host/list/2/ HTTP/1.1" 200 0
+2021-02-02 10:15:36,811 [INFO]  [basehttp - 154] "DELETE /host/list/2/ HTTP/1.1" 204 0
+2021-02-02 10:15:47,530 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:15:47,531 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:15:47,557 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:15:47,568 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 1035
+2021-02-02 10:16:23,976 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 10:16:23,977 [INFO]  [basehttp - 154] "OPTIONS /host/list/1/ HTTP/1.1" 200 0
+2021-02-02 10:16:23,991 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:16:23,994 [INFO]  [basehttp - 154] "DELETE /host/list/1/ HTTP/1.1" 204 0
+2021-02-02 10:17:17,623 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:17:17,629 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:17:17,675 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:17:17,688 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 904
+2021-02-02 10:17:24,127 [INFO]  [basehttp - 154] "OPTIONS /host/list/ HTTP/1.1" 200 0
+2021-02-02 10:17:24,129 [INFO]  [basehttp - 154] "OPTIONS /host/categorys/ HTTP/1.1" 200 0
+2021-02-02 10:17:24,149 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:17:24,156 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 904
+2021-02-02 10:17:33,776 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 10:17:33,786 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:17:33,826 [INFO]  [basehttp - 154] "OPTIONS /host/list/12/ HTTP/1.1" 200 0
+2021-02-02 10:17:33,839 [INFO]  [basehttp - 154] "DELETE /host/list/12/ HTTP/1.1" 204 0
+2021-02-02 10:17:43,349 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 10:17:43,355 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:17:43,387 [INFO]  [basehttp - 154] "OPTIONS /host/list/11/ HTTP/1.1" 200 0
+2021-02-02 10:17:43,398 [INFO]  [basehttp - 154] "DELETE /host/list/11/ HTTP/1.1" 204 0
+2021-02-02 10:21:21,416 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:21:21,424 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 624
+2021-02-02 10:21:36,923 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:21:36,942 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 624
+2021-02-02 10:21:52,479 [INFO]  [basehttp - 154] "OPTIONS /host/host_excel/ HTTP/1.1" 200 0
+2021-02-02 10:21:52,483 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:21:56,382 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 335
+2021-02-02 10:22:23,283 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:22:24,566 [INFO]  [basehttp - 154] "POST /host/host_excel/ HTTP/1.1" 200 301
+2021-02-02 10:22:29,487 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:22:29,529 [INFO]  [basehttp - 154] "OPTIONS /host/list/16/ HTTP/1.1" 200 0
+2021-02-02 10:22:29,548 [INFO]  [basehttp - 154] "DELETE /host/list/16/ HTTP/1.1" 204 0
+2021-02-02 10:22:31,777 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:22:31,814 [INFO]  [basehttp - 154] "OPTIONS /host/list/15/ HTTP/1.1" 200 0
+2021-02-02 10:22:31,826 [INFO]  [basehttp - 154] "DELETE /host/list/15/ HTTP/1.1" 204 0
+2021-02-02 10:22:33,279 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 10:22:33,314 [INFO]  [basehttp - 154] "OPTIONS /host/list/14/ HTTP/1.1" 200 0
+2021-02-02 10:22:33,366 [INFO]  [basehttp - 154] "DELETE /host/list/14/ HTTP/1.1" 204 0
+2021-02-02 10:23:10,351 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:23:10,366 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 805
+2021-02-02 10:24:41,195 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:24:41,208 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 805
+2021-02-02 10:30:44,863 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:30:44,877 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 805
+2021-02-02 10:32:53,827 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:32:53,847 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 805
+2021-02-02 10:38:20,845 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:38:20,870 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 805
+2021-02-02 10:52:42,344 [INFO]  [basehttp - 154] "GET /host/categorys/ HTTP/1.1" 200 254
+2021-02-02 10:52:42,351 [INFO]  [basehttp - 154] "GET /host/list/ HTTP/1.1" 200 805
+2021-02-02 11:43:54,768 [INFO]  [basehttp - 154] "OPTIONS /users/verify/ HTTP/1.1" 200 0
+2021-02-02 11:43:54,781 [INFO]  [basehttp - 154] "OPTIONS /host/list/7/ HTTP/1.1" 200 0
+2021-02-02 11:43:54,788 [INFO]  [basehttp - 154] "POST /users/verify/ HTTP/1.1" 200 203
+2021-02-02 11:43:54,831 [INFO]  [basehttp - 154] "GET /host/list/7/ HTTP/1.1" 200 178
+2021-02-02 14:18:54,721 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/settings/dev.py changed, reloading.
+2021-02-02 14:18:56,452 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:19:52,824 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:20:27,323 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:21:56,635 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:22:30,539 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:22:55,622 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:24:00,649 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:24:34,718 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:25:08,405 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:26:25,360 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:32:38,024 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:32:59,528 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:33:10,064 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:35:02,222 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:35:27,531 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:35:45,636 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:36:00,752 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/consumer/consumers.py changed, reloading.
+2021-02-02 14:36:01,754 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 14:36:05,863 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.31, 127.0.0.1:53164]
+2021-02-02 14:36:05,867 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.18, 127.0.0.1:53166]
+2021-02-02 14:36:06,039 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.17, 127.0.0.1:53164]
+2021-02-02 14:36:06,079 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.21, 127.0.0.1:53166]
+2021-02-02 14:36:18,414 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:53166]
+2021-02-02 14:36:18,429 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:53164]
+2021-02-02 14:36:19,950 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:53164]
+2021-02-02 14:36:19,955 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:53166]
+2021-02-02 14:36:19,973 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:53164]
+2021-02-02 14:36:20,047 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.09, 127.0.0.1:53166]
+2021-02-02 14:36:22,447 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:53166]
+2021-02-02 14:36:22,462 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:53164]
+2021-02-02 14:37:55,162 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:53924]
+2021-02-02 14:37:55,166 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:53926]
+2021-02-02 14:37:55,176 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:53924]
+2021-02-02 14:37:55,196 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:53926]
+2021-02-02 14:38:03,235 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:53926]
+2021-02-02 14:38:03,240 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:53924]
+2021-02-02 14:38:03,250 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:53926]
+2021-02-02 14:38:03,263 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:53924]
+2021-02-02 14:39:59,040 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:54956]
+2021-02-02 14:39:59,044 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:54958]
+2021-02-02 14:39:59,054 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:54956]
+2021-02-02 14:39:59,077 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:54958]
+2021-02-02 14:40:05,098 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:54958]
+2021-02-02 14:40:05,108 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:54958]
+2021-02-02 14:40:05,113 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:54956]
+2021-02-02 14:40:05,126 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.01, 127.0.0.1:54956]
+2021-02-02 14:41:21,533 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:55636]
+2021-02-02 14:41:21,555 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.02, 127.0.0.1:55638]
+2021-02-02 14:41:21,593 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.06, 127.0.0.1:55636]
+2021-02-02 14:41:21,616 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:55638]
+2021-02-02 14:41:26,149 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:55686]
+2021-02-02 14:41:26,189 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:55686]
+2021-02-02 14:41:26,442 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.18, 127.0.0.1:55638]
+2021-02-02 14:41:26,446 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.19, 127.0.0.1:55636]
+2021-02-02 14:41:26,456 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:55638]
+2021-02-02 14:41:26,468 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:55636]
+2021-02-02 14:43:13,208 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:55686]
+2021-02-02 14:43:13,222 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:56562]
+2021-02-02 14:43:13,224 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:56558]
+2021-02-02 14:43:13,229 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:56560]
+2021-02-02 14:43:13,231 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:56562]
+2021-02-02 14:43:13,447 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.22, 127.0.0.1:56558]
+2021-02-02 14:43:13,460 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.22, 127.0.0.1:56560]
+2021-02-02 14:43:17,291 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:56562]
+2021-02-02 14:43:20,050 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:56638]
+2021-02-02 14:43:20,052 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:56638]
+2021-02-02 14:43:20,270 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.22, 127.0.0.1:56560]
+2021-02-02 14:43:20,275 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.22, 127.0.0.1:56558]
+2021-02-02 14:43:20,284 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:56560]
+2021-02-02 14:43:20,306 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:56558]
+2021-02-02 14:45:04,867 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:56638]
+2021-02-02 14:45:04,871 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:57512]
+2021-02-02 14:45:04,876 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:57514]
+2021-02-02 14:45:04,882 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:57516]
+2021-02-02 14:45:04,886 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:57512]
+2021-02-02 14:45:05,114 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.24, 127.0.0.1:57514]
+2021-02-02 14:45:05,149 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.26, 127.0.0.1:57516]
+2021-02-02 14:45:07,039 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:57512]
+2021-02-02 14:45:09,863 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:57570]
+2021-02-02 14:45:09,871 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:57570]
+2021-02-02 14:45:10,074 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.21, 127.0.0.1:57516]
+2021-02-02 14:45:10,078 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.21, 127.0.0.1:57514]
+2021-02-02 14:45:10,096 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:57516]
+2021-02-02 14:45:10,138 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.05, 127.0.0.1:57514]
+2021-02-02 14:46:29,375 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:57570]
+2021-02-02 14:46:29,384 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:58218]
+2021-02-02 14:46:29,390 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:58220]
+2021-02-02 14:46:29,396 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:58222]
+2021-02-02 14:46:29,398 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:58218]
+2021-02-02 14:46:29,640 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.25, 127.0.0.1:58220]
+2021-02-02 14:46:29,673 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.26, 127.0.0.1:58222]
+2021-02-02 14:46:31,374 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:58218]
+2021-02-02 14:46:34,473 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:58290]
+2021-02-02 14:46:34,476 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:58290]
+2021-02-02 14:46:34,697 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.22, 127.0.0.1:58222]
+2021-02-02 14:46:34,701 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.22, 127.0.0.1:58220]
+2021-02-02 14:46:34,711 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:58222]
+2021-02-02 14:46:34,728 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:58220]
+2021-02-02 14:46:58,458 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:58290]
+2021-02-02 14:46:58,468 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:58220]
+2021-02-02 14:46:58,471 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:58222]
+2021-02-02 14:46:58,490 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:58220]
+2021-02-02 14:46:58,501 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:58222]
+2021-02-02 14:47:03,709 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:58222]
+2021-02-02 14:47:03,712 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:58220]
+2021-02-02 14:47:03,731 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:58222]
+2021-02-02 14:47:03,744 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:58220]
+2021-02-02 14:47:05,689 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/9/ [127.0.0.1:58580]
+2021-02-02 14:47:05,693 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/9/ [127.0.0.1:58580]
+2021-02-02 14:47:06,042 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.35, 127.0.0.1:58220]
+2021-02-02 14:47:06,047 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/9/ 200 [0.35, 127.0.0.1:58222]
+2021-02-02 14:47:06,056 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:58220]
+2021-02-02 14:47:06,070 [INFO]  [runserver - 141] HTTP GET /host/list/9/ 200 [0.02, 127.0.0.1:58222]
+2021-02-02 14:53:33,625 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/9/ [127.0.0.1:58580]
+2021-02-02 14:53:33,634 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/9/ [127.0.0.1:33546]
+2021-02-02 14:53:33,644 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:33548]
+2021-02-02 14:53:33,646 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/9/ [127.0.0.1:33546]
+2021-02-02 14:53:33,865 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/9/ 200 [0.23, 127.0.0.1:33550]
+2021-02-02 14:53:33,874 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.23, 127.0.0.1:33548]
+2021-02-02 14:53:33,911 [INFO]  [runserver - 141] HTTP GET /host/list/9/ 200 [0.04, 127.0.0.1:33550]
+2021-02-02 14:53:38,471 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/9/ [127.0.0.1:33546]
+2021-02-02 14:53:38,481 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:33550]
+2021-02-02 14:53:38,485 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.00, 127.0.0.1:33548]
+2021-02-02 14:53:38,514 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:33550]
+2021-02-02 14:53:38,529 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.04, 127.0.0.1:33548]
+2021-02-02 14:53:40,403 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:33624]
+2021-02-02 14:53:40,406 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:33624]
+2021-02-02 14:53:40,619 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.21, 127.0.0.1:33548]
+2021-02-02 14:53:40,625 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.22, 127.0.0.1:33550]
+2021-02-02 14:53:40,634 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:33548]
+2021-02-02 14:53:40,653 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:33550]
+2021-02-02 14:54:48,306 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:33624]
+2021-02-02 14:54:51,280 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:34228]
+2021-02-02 14:54:51,282 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:34228]
+2021-02-02 14:54:51,499 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.22, 127.0.0.1:34232]
+2021-02-02 14:54:51,503 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.22, 127.0.0.1:34234]
+2021-02-02 14:54:51,522 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.02, 127.0.0.1:34232]
+2021-02-02 14:54:51,539 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:34234]
+2021-02-02 15:12:16,029 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:34228]
+2021-02-02 15:13:35,337 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:35046]
+2021-02-02 15:13:35,342 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:35048]
+2021-02-02 15:13:35,376 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.04, 127.0.0.1:35046]
+2021-02-02 15:13:35,384 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.04, 127.0.0.1:35048]
+2021-02-02 15:13:41,431 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:35048]
+2021-02-02 15:13:41,438 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:35046]
+2021-02-02 15:13:41,468 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:35046]
+2021-02-02 15:13:41,478 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.04, 127.0.0.1:35048]
+2021-02-02 15:14:00,079 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:35048]
+2021-02-02 15:14:00,085 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:35046]
+2021-02-02 15:14:00,113 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:35048]
+2021-02-02 15:14:00,126 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.02, 127.0.0.1:35046]
+2021-02-02 15:16:40,847 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:36620]
+2021-02-02 15:16:40,856 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:36622]
+2021-02-02 15:16:40,881 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:36620]
+2021-02-02 15:16:40,891 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:36622]
+2021-02-02 15:16:46,757 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:36680]
+2021-02-02 15:16:46,764 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:36622]
+2021-02-02 15:16:46,770 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:36620]
+2021-02-02 15:16:46,781 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:36680]
+2021-02-02 15:16:47,006 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.24, 127.0.0.1:36622]
+2021-02-02 15:16:47,028 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.25, 127.0.0.1:36620]
+2021-02-02 15:19:26,751 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:36680]
+2021-02-02 15:19:29,642 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:38032]
+2021-02-02 15:19:29,645 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:38032]
+2021-02-02 15:19:29,893 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.25, 127.0.0.1:38034]
+2021-02-02 15:19:29,896 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.25, 127.0.0.1:38036]
+2021-02-02 15:19:29,905 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:38034]
+2021-02-02 15:19:29,918 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:38036]
+2021-02-02 15:20:55,177 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:38032]
+2021-02-02 15:20:58,338 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:38768]
+2021-02-02 15:20:58,345 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:38770]
+2021-02-02 15:20:58,347 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:38768]
+2021-02-02 15:20:58,589 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.25, 127.0.0.1:38772]
+2021-02-02 15:20:58,602 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.25, 127.0.0.1:38770]
+2021-02-02 15:20:58,618 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:38772]
+2021-02-02 15:22:19,141 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:39434]
+2021-02-02 15:22:19,143 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:39434]
+2021-02-02 15:22:19,348 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.20, 127.0.0.1:39436]
+2021-02-02 15:22:19,351 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.20, 127.0.0.1:39438]
+2021-02-02 15:22:19,361 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:39436]
+2021-02-02 15:22:19,375 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:39438]
+2021-02-02 15:22:21,886 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:38768]
+2021-02-02 15:22:21,887 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:39434]
+2021-02-02 15:22:24,896 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:39498]
+2021-02-02 15:22:24,912 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:39438]
+2021-02-02 15:22:24,916 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:39498]
+2021-02-02 15:22:25,138 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.24, 127.0.0.1:39436]
+2021-02-02 15:22:25,149 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.24, 127.0.0.1:39438]
+2021-02-02 15:22:25,258 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.01, 127.0.0.1:39438]
+2021-02-02 15:23:32,259 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:40058]
+2021-02-02 15:23:32,260 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:40058]
+2021-02-02 15:23:32,488 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.23, 127.0.0.1:40060]
+2021-02-02 15:23:32,498 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.23, 127.0.0.1:40062]
+2021-02-02 15:23:32,522 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.03, 127.0.0.1:40060]
+2021-02-02 15:23:32,536 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:40062]
+2021-02-02 15:23:46,347 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:39498]
+2021-02-02 15:23:46,348 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:40058]
+2021-02-02 15:23:49,526 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:40222]
+2021-02-02 15:23:49,528 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:40222]
+2021-02-02 15:23:49,747 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.22, 127.0.0.1:40062]
+2021-02-02 15:23:49,756 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.23, 127.0.0.1:40060]
+2021-02-02 15:23:49,766 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:40062]
+2021-02-02 15:23:49,778 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:40060]
+2021-02-02 15:24:29,014 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:40562]
+2021-02-02 15:24:29,016 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:40562]
+2021-02-02 15:24:29,235 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.21, 127.0.0.1:40060]
+2021-02-02 15:24:29,239 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.21, 127.0.0.1:40062]
+2021-02-02 15:24:29,249 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:40060]
+2021-02-02 15:24:29,270 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:40062]
+2021-02-02 15:24:35,584 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.01, 127.0.0.1:40062]
+2021-02-02 15:24:35,588 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:40060]
+2021-02-02 15:24:35,618 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:40062]
+2021-02-02 15:24:35,635 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.04, 127.0.0.1:40060]
+2021-02-02 15:24:40,501 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:40670]
+2021-02-02 15:24:40,511 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:40060]
+2021-02-02 15:24:40,517 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:40670]
+2021-02-02 15:24:40,733 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.23, 127.0.0.1:40062]
+2021-02-02 15:24:40,743 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.23, 127.0.0.1:40060]
+2021-02-02 15:24:40,755 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:40062]
+2021-02-02 15:26:00,483 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41370]
+2021-02-02 15:26:00,484 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41370]
+2021-02-02 15:26:00,740 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.23, 127.0.0.1:41376]
+2021-02-02 15:26:00,748 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.24, 127.0.0.1:41378]
+2021-02-02 15:26:00,759 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41376]
+2021-02-02 15:26:00,799 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.04, 127.0.0.1:41378]
+2021-02-02 15:26:04,198 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:40222]
+2021-02-02 15:26:04,203 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:40562]
+2021-02-02 15:26:04,204 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:40670]
+2021-02-02 15:26:04,205 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41370]
+2021-02-02 15:26:07,383 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41456]
+2021-02-02 15:26:07,386 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41456]
+2021-02-02 15:26:07,667 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:41378]
+2021-02-02 15:26:07,671 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:41376]
+2021-02-02 15:26:07,682 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41378]
+2021-02-02 15:26:07,702 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:41376]
+2021-02-02 15:27:19,456 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41638]
+2021-02-02 15:27:19,457 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41638]
+2021-02-02 15:27:19,673 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.19, 127.0.0.1:41644]
+2021-02-02 15:27:19,704 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.22, 127.0.0.1:41646]
+2021-02-02 15:27:21,688 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:41646]
+2021-02-02 15:27:21,698 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:41644]
+2021-02-02 15:27:23,987 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41660]
+2021-02-02 15:27:23,988 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41660]
+2021-02-02 15:27:24,243 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.25, 127.0.0.1:41644]
+2021-02-02 15:27:24,266 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.27, 127.0.0.1:41646]
+2021-02-02 15:32:07,427 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41766]
+2021-02-02 15:32:07,429 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41766]
+2021-02-02 15:32:07,680 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.23, 127.0.0.1:41770]
+2021-02-02 15:32:07,709 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.26, 127.0.0.1:41772]
+2021-02-02 15:32:10,614 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41456]
+2021-02-02 15:32:10,614 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41638]
+2021-02-02 15:32:10,615 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41660]
+2021-02-02 15:32:10,615 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41766]
+2021-02-02 15:32:12,817 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41784]
+2021-02-02 15:32:12,818 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41784]
+2021-02-02 15:32:13,032 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.19, 127.0.0.1:41772]
+2021-02-02 15:32:13,043 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.20, 127.0.0.1:41770]
+2021-02-02 15:36:43,619 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/7/ [127.0.0.1:41864]
+2021-02-02 15:36:43,620 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/7/ [127.0.0.1:41864]
+2021-02-02 15:36:43,846 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:41870]
+2021-02-02 15:36:43,862 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.22, 127.0.0.1:41872]
+2021-02-02 15:39:28,475 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41892]
+2021-02-02 15:39:28,493 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:41894]
+2021-02-02 15:39:32,191 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41784]
+2021-02-02 15:39:32,193 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/7/ [127.0.0.1:41864]
+2021-02-02 15:39:34,308 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41894]
+2021-02-02 15:39:34,333 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:41892]
+2021-02-02 15:39:35,997 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:41892]
+2021-02-02 15:39:36,016 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.05, 127.0.0.1:41894]
+2021-02-02 15:39:37,673 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41894]
+2021-02-02 15:39:37,691 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:41892]
+2021-02-02 15:40:09,661 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41892]
+2021-02-02 15:40:09,677 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.03, 127.0.0.1:41894]
+2021-02-02 15:40:15,423 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41894]
+2021-02-02 15:40:15,438 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:41892]
+2021-02-02 15:40:18,087 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:41892]
+2021-02-02 15:40:18,125 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.06, 127.0.0.1:41894]
+2021-02-02 15:40:20,444 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41894]
+2021-02-02 15:40:20,458 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:41892]
+2021-02-02 15:42:10,909 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:41980]
+2021-02-02 15:42:10,925 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.04, 127.0.0.1:41982]
+2021-02-02 15:42:13,152 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41982]
+2021-02-02 15:42:13,166 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:41980]
+2021-02-02 15:42:15,514 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:41980]
+2021-02-02 15:42:15,525 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:41982]
+2021-02-02 15:42:17,378 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:41982]
+2021-02-02 15:42:17,392 [INFO]  [runserver - 141] HTTP GET /host/list/9/ 200 [0.02, 127.0.0.1:41980]
+2021-02-02 15:42:19,027 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:41980]
+2021-02-02 15:42:19,038 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:41982]
+2021-02-02 15:43:50,130 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:42740]
+2021-02-02 15:43:50,135 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:42742]
+2021-02-02 15:43:50,161 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.03, 127.0.0.1:42740]
+2021-02-02 15:43:50,173 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:42742]
+2021-02-02 15:44:01,005 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:42742]
+2021-02-02 15:44:01,009 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:42740]
+2021-02-02 15:44:01,019 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:42742]
+2021-02-02 15:44:01,033 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:42740]
+2021-02-02 15:46:04,438 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:43856]
+2021-02-02 15:46:04,443 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:43858]
+2021-02-02 15:46:04,456 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.02, 127.0.0.1:43856]
+2021-02-02 15:46:04,474 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:43858]
+2021-02-02 15:46:09,814 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.00, 127.0.0.1:43858]
+2021-02-02 15:46:09,818 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/7/ 200 [0.01, 127.0.0.1:43856]
+2021-02-02 15:46:09,827 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:43858]
+2021-02-02 15:46:09,840 [INFO]  [runserver - 141] HTTP GET /host/list/7/ 200 [0.02, 127.0.0.1:43856]
+2021-02-02 15:46:15,898 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/ 200 [0.00, 127.0.0.1:43856]
+2021-02-02 15:46:15,902 [INFO]  [runserver - 141] HTTP OPTIONS /host/categorys/ 200 [0.01, 127.0.0.1:43858]
+2021-02-02 15:46:15,925 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:43856]
+2021-02-02 15:46:15,939 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:43858]
+2021-02-02 15:46:18,638 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.01, 127.0.0.1:43858]
+2021-02-02 15:46:18,643 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/13/ 200 [0.01, 127.0.0.1:43856]
+2021-02-02 15:46:18,655 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:43858]
+2021-02-02 15:46:18,671 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.02, 127.0.0.1:43856]
+2021-02-02 15:46:46,212 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44216]
+2021-02-02 15:46:46,216 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44216]
+2021-02-02 15:46:46,452 [INFO]  [runserver - 141] HTTP OPTIONS /users/verify/ 200 [0.21, 127.0.0.1:43856]
+2021-02-02 15:46:46,457 [INFO]  [runserver - 141] HTTP OPTIONS /host/list/13/ 200 [0.21, 127.0.0.1:43858]
+2021-02-02 15:46:46,470 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.01, 127.0.0.1:43856]
+2021-02-02 15:46:46,494 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.03, 127.0.0.1:43858]
+2021-02-02 15:46:51,678 [WARNING]  [log - 228] Not Found: /host/file/13/
+2021-02-02 15:46:51,685 [WARNING]  [runserver - 149] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2F 404 [0.17, 127.0.0.1:43858]
+2021-02-02 15:47:52,892 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44386]
+2021-02-02 15:47:52,894 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44386]
+2021-02-02 15:47:53,110 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:44392]
+2021-02-02 15:47:53,123 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.21, 127.0.0.1:44394]
+2021-02-02 15:47:54,717 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44216]
+2021-02-02 15:47:54,718 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44386]
+2021-02-02 15:47:56,879 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44404]
+2021-02-02 15:47:56,881 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44404]
+2021-02-02 15:47:57,097 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:44394]
+2021-02-02 15:47:57,115 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.21, 127.0.0.1:44392]
+2021-02-02 15:48:14,157 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44422]
+2021-02-02 15:48:14,158 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44422]
+2021-02-02 15:48:14,372 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:44392]
+2021-02-02 15:48:14,399 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.23, 127.0.0.1:44394]
+2021-02-02 15:48:48,478 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44450]
+2021-02-02 15:48:48,480 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44450]
+2021-02-02 15:48:48,695 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:44394]
+2021-02-02 15:48:48,711 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.22, 127.0.0.1:44392]
+2021-02-02 15:49:26,404 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:44392]
+2021-02-02 15:49:26,418 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:44394]
+2021-02-02 15:49:28,301 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44480]
+2021-02-02 15:49:28,303 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44480]
+2021-02-02 15:49:28,520 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:44394]
+2021-02-02 15:49:28,538 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.22, 127.0.0.1:44392]
+2021-02-02 15:49:43,168 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44502]
+2021-02-02 15:49:43,169 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44502]
+2021-02-02 15:49:43,379 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.20, 127.0.0.1:44392]
+2021-02-02 15:49:43,396 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.21, 127.0.0.1:44394]
+2021-02-02 15:49:48,452 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44518]
+2021-02-02 15:49:48,454 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44518]
+2021-02-02 15:49:48,682 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.22, 127.0.0.1:44394]
+2021-02-02 15:49:48,702 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.23, 127.0.0.1:44392]
+2021-02-02 15:49:51,134 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44404]
+2021-02-02 15:49:51,135 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44422]
+2021-02-02 15:49:51,136 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44450]
+2021-02-02 15:49:51,136 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44480]
+2021-02-02 15:49:51,136 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44502]
+2021-02-02 15:49:51,137 [INFO]  [runserver - 160] WebSocket DISCONNECT /ws/ssh/13/ [127.0.0.1:44518]
+2021-02-02 15:49:53,321 [INFO]  [runserver - 162] WebSocket HANDSHAKING /ws/ssh/13/ [127.0.0.1:44532]
+2021-02-02 15:49:53,323 [INFO]  [runserver - 158] WebSocket CONNECT /ws/ssh/13/ [127.0.0.1:44532]
+2021-02-02 15:49:53,534 [INFO]  [runserver - 141] HTTP POST /users/verify/ 200 [0.19, 127.0.0.1:44392]
+2021-02-02 15:49:53,544 [INFO]  [runserver - 141] HTTP GET /host/list/13/ 200 [0.20, 127.0.0.1:44394]
+2021-02-02 15:52:35,755 [WARNING]  [log - 228] Not Found: /host/file/13/
+2021-02-02 15:52:35,758 [WARNING]  [runserver - 149] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2F 404 [0.01, 127.0.0.1:44604]
+2021-02-02 15:57:55,865 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/urls.py changed, reloading.
+2021-02-02 15:57:57,226 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 15:58:21,020 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 16:04:44,651 [INFO]  [autoreload - 203] /home/hkxpz/maxiaolong/hippo/hippo_api/hippo_api/apps/host/views.py changed, reloading.
+2021-02-02 16:04:45,568 [INFO]  [autoreload - 578] Watching for file changes with StatReloader
+2021-02-02 16:04:54,386 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2F 200 [0.38, 127.0.0.1:44682]
+2021-02-02 16:05:03,173 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2Fdata 200 [0.39, 127.0.0.1:44682]
+2021-02-02 16:05:05,375 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2Fdata%2Fauto_pack 200 [0.32, 127.0.0.1:44682]
+2021-02-02 16:05:06,894 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2Fdata%2Fauto_pack%2Fbr_docker 200 [0.33, 127.0.0.1:44682]
+2021-02-02 16:05:08,165 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2Fdata%2Fauto_pack%2Fbr_docker%2Fhandler 200 [0.32, 127.0.0.1:44682]
+2021-02-02 16:05:15,903 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+-a+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2Fdata%2Fauto_pack%2Fbr_docker%2Fhandler 200 [0.36, 127.0.0.1:44682]
+2021-02-02 16:05:17,562 [INFO]  [runserver - 141] HTTP GET /host/file/13/?cmd=%5Cls+-l+-h+--time-style+%27%2B%25Y%2F%25m%2F%25d+%25H:%25M:%25S%27+%2Fdata%2Fauto_pack%2Fbr_docker%2Fhandler 200 [0.31, 127.0.0.1:44682]
+2021-02-02 16:05:41,958 [INFO]  [runserver - 141] HTTP GET /host/list/ 200 [0.02, 127.0.0.1:44682]
+2021-02-02 16:05:41,968 [INFO]  [runserver - 141] HTTP GET /host/categorys/ 200 [0.03, 127.0.0.1:44714]

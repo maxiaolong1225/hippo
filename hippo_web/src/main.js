@@ -8,6 +8,8 @@ import axios from "axios";
 import Antd from 'ant-design-vue';
 Vue.use(Antd);
 import 'ant-design-vue/dist/antd.css';
+import 'xterm/css/xterm.css';
+import 'xterm/lib/xterm';
 
 // import echarts from 'echarts';
 let echarts = require('echarts');
